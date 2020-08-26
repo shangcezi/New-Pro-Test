@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		180457E0239A48A600377DB2 /* UIViewController+Alert.m in Sources */ = {isa = PBXBuildFile; fileRef = 180457DF239A48A600377DB2 /* UIViewController+Alert.m */; };
+		1860D8D824F644DE00629A0A /* CObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 1860D8D724F644DE00629A0A /* CObj.m */; };
 		18F82790239630430062361B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F8278F239630430062361B /* AppDelegate.m */; };
 		18F82793239630430062361B /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F82792239630430062361B /* SceneDelegate.m */; };
 		18F82796239630430062361B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F82795239630430062361B /* ViewController.m */; };
@@ -21,6 +22,8 @@
 /* Begin PBXFileReference section */
 		180457DE239A48A600377DB2 /* UIViewController+Alert.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Alert.h"; sourceTree = "<group>"; };
 		180457DF239A48A600377DB2 /* UIViewController+Alert.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Alert.m"; sourceTree = "<group>"; };
+		1860D8D624F644DE00629A0A /* CObj.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CObj.h; sourceTree = "<group>"; };
+		1860D8D724F644DE00629A0A /* CObj.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CObj.m; sourceTree = "<group>"; };
 		18F8278B239630430062361B /* socketTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = socketTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F8278E239630430062361B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		18F8278F239630430062361B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -79,6 +82,8 @@
 				18F82795239630430062361B /* ViewController.m */,
 				180457DE239A48A600377DB2 /* UIViewController+Alert.h */,
 				180457DF239A48A600377DB2 /* UIViewController+Alert.m */,
+				1860D8D624F644DE00629A0A /* CObj.h */,
+				1860D8D724F644DE00629A0A /* CObj.m */,
 				18F82797239630430062361B /* Main.storyboard */,
 				18F8279A239630450062361B /* Assets.xcassets */,
 				18F8279C239630450062361B /* LaunchScreen.storyboard */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18F82796239630430062361B /* ViewController.m in Sources */,
+				1860D8D824F644DE00629A0A /* CObj.m in Sources */,
 				18F82790239630430062361B /* AppDelegate.m in Sources */,
 				18F827A1239630450062361B /* main.m in Sources */,
 				180457E0239A48A600377DB2 /* UIViewController+Alert.m in Sources */,
